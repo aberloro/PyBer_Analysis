@@ -3,7 +3,9 @@
 ## Overview
 
 ### Background
-Previous work has been done on this ride-share dataset to create [visualizations](https://github.com/aberloro/PyBer_Analysis/blob/a034f1fe1a4b6cb6897dfb01be5ec301b0ccbc96/PyBer.ipynb) that address the questions of access and affordability in underserved markets. A bubble plot showed an inverse correlation between average fare and total number of rides per city.  Box and whisker plots were provided for ride count, ride fare, and driver count data. These plots showed urban cities with the highest average ride and driver counts, and lowest average fares.  Rural city types had the highest average fares and the fewest available drivers and lowest number of trips. Pie chart visualizations showed fares by city type with urban cities claiming nearly two thirds of all fares, rides by city type with rural rides clocking in at only 5% of the total, and drivers per city type with rural cities only carrying about 3% of available drivers.  
+Previous work has been done on this ride-share dataset to create [visualizations](https://github.com/aberloro/PyBer_Analysis/blob/a034f1fe1a4b6cb6897dfb01be5ec301b0ccbc96/PyBer.ipynb) that address the questions of access and affordability in underserved markets. 
+
+A bubble plot showed an inverse correlation between average fare and total number of rides per city.  Box and whisker plots were provided for ride count, ride fare, and driver count data. These plots showed urban cities with the highest average ride and driver counts, and lowest average fares.  Rural city types had the highest average fares and the fewest available drivers and lowest number of trips. Pie chart visualizations showed fares by city type with urban cities claiming nearly two thirds of all fares, rides by city type with rural rides clocking in at only 5% of the total, and drivers per city type with rural cities only carrying about 3% of available drivers.  
 
 ### Purpose 
 The PYBER CEO is looking at data with the goals of improving access and affordability to under-served areas.  The purpose of this project is twofold:
